@@ -6,7 +6,7 @@
     height: 200px;
 }
 body{
-    background-image: url("../image/jk1.png");
+    background-color: #21b6ab;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -71,7 +71,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     font-family: system-ui, -apple-system, Arial, Helvetica, sans-serif;
-    background: #252525;
+    background: #18a558;
     height: 8vh;
 }
 .nav-list{
