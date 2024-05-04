@@ -63,7 +63,7 @@ a:hover{
     color: #04ff00;
 }
 nav{
-    display: inline-flex;
+    display: flex;
     justify-content: space-around;
     align-items: center;
     font-family: system-ui, -apple-system, Arial, Helvetica, sans-serif;
