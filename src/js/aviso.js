@@ -1,1 +1,1 @@
-alert("Bem vindo ao JK Noticias");
+alert("BEM AO SEU DIÁRIO DE NOTÍCIAS  Jk");
